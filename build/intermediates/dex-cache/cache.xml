@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\6393a1660e56f9f6dad4184d0f7160bb395c1ba5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcbca0eb0ac52139240b5f89d99a693c068cca48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\6cd9041440323b26d97245c66a326d987927ebb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7eedd66b4de33db4d377b4ac01698997fe81738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\714114373bf6f6b92af31fa0012a6fd02129c436\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cc5088b8c7917adabfb464c7d05b92416006b0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_490122b45d2c8ac6b0e39101923446e69342763a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5827b90b739dc4655a969ead384717c1fab5b0a2">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ba7a3914064cc792ea5a93aad618e468192a5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\df541e6bb90227c87a8da3778873b98854cccb3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19c42917efd2891db4037981a0a301e0ca2e8612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\7245413d98590eac587800f81db90425e22eb0ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3d7fcb59382ce442d99c184ec6498a3b343f080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\ae5e41936f4b50650108ee2d134e9b3168cab125\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3efb1d8c447812e38a67a07372858ff426e69c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\df4d5bedb11edc4f87ecf90e1746f0e0b01ce8fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaa9a824d7fc1f5f21230bf516b982edebd36e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\f481e7512f0ec70b10738d5d6898e152cdb99cdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83a0e60abbbb6cf0bc533e95afb4f63b567492f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\668ac6fce2a4517d48e83b68c20cb6963a0100d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac922534ecf139107c1f0844cf77c909dc7c02ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3b9a4e530dd4b046e22bbc26775e1aad7b4ee3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\.android\build-cache\b124f27829eede888a9db6db18bbc9406246f4d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_924fc4070d8fbb2349a936906440287dc0d7401d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jackc\AndroidStudioProjects\GameDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ee0f70930605f96303242e076d779aa74e74336e\classes.dex" />
+    </item>
+
+</items>
